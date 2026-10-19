@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+programs.json
+settings.json
+music/*
+!music/README.txt

@@ -1,0 +1,6 @@
+numpy
+pygame
+# On the Pi only, for the rotary encoders:
+# gpiozero
+# Optional, for live mic mode (also needs: sudo apt install libportaudio2):
+# sounddevice
