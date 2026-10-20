@@ -217,7 +217,7 @@ Without them, or without a microphone, the right panel says "no mic found".
 - `music.py` Music mode: song decoding and note detection
 - `scope.py` oscilloscope display: waveforms, scales and the labeled graph
 - `ui.py` colours, fonts and drawing helpers for the panels
-- `fonts/` Departure Mono, a pixel font (SIL Open Font License, see `fonts/LICENSE-DepartureMono.txt`), bundled so the Pi looks the same
+- `fonts/` Departure Mono, a pixel font (SIL Open Font License, `fonts/LICENSE-DepartureMono.txt`), bundled so the Pi looks the same
 - `settings.py` saving and loading the Settings menu
-- `controls.py` keyboard mapping and the gpiozero encoder reader (GPIO pins are placeholders)
+- `controls.py` keyboard mapping and the gpiozero encoder reader
 - `app.py` the Pygame display
